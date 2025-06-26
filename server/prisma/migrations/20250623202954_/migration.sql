@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE `order` ALTER COLUMN `amount` DROP DEFAULT,
+    ALTER COLUMN `currentcy` DROP DEFAULT,
+    ALTER COLUMN `status` DROP DEFAULT,
+    ALTER COLUMN `stripePaymentId` DROP DEFAULT;
