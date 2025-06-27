@@ -4,12 +4,12 @@
 
 ## 🧾 สารบัญ
 
-- [✨ Features](##-Features)
-- [🧑‍💻 Tech Stack](##-Tech-Stack)
-- [⚙️ Getting Started](##-Getting-Started)
-- [🔐 Environment Variables](##-Environment-Variables)
-- [📦 Scripts](##-Scripts)
-- [🧪 API Testing](##-API-Testing)
+- ✨ Features
+- 🧑‍💻 Tech Stack
+- ⚙️ Getting Started
+- 🔐 Environment Variables
+- 📦 Scripts
+- 🧪 API Testing
 
 ## 🚀 Features
 ฟีเจอร์หลักของโปรเจกต์นี้:
