@@ -98,6 +98,7 @@ const MainNav = () => {
                                 </DropdownMenuTrigger>
                                 <DropdownMenuContent>
                                     <DropdownMenuLabel>My Account</DropdownMenuLabel>
+                                    <DropdownMenuLabel>{user.email}</DropdownMenuLabel>
                                     <DropdownMenuSeparator /> {/* ขีดเส้น */}
 
                                     <DropdownMenuItem asChild>
