@@ -7,7 +7,7 @@ const Home = () => {
     <div>
       <ContentCarousel />
 
-      <p className="text-2xl text-center my-4 text-white">สินค้าขายดี</p>
+      <p className="text-2xl text-center my-4 text-white">สินค้าขายดี งงดิดิ</p>
       <BestSeller />
 
       <p className="text-2xl text-center my-4 text-white">สินค้าใหม่</p>
