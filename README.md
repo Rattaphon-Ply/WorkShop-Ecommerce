@@ -1,4 +1,4 @@
-## 🚀 Project Name
+## 🚀 WorkShop-Ecommerce
 เว็บแอปพลิเคชันที่พัฒนาด้วย React + Vite ฝั่ง Frontend และ Node.js + Express ฝั่ง Backend
 รองรับการใช้งานที่ทันสมัย มีระบบฟอร์ม การยืนยันตัวตน และการจำลองระบบชำระเงินด้วย Stripe
 
